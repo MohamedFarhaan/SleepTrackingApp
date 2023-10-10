@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061311216016",
+    "project_id": "sleeptrackingapp-7083e",
+    "storage_bucket": "sleeptrackingapp-7083e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061311216016:android:d2da14dd72f80b3c4b9b15",
+        "android_client_info": {
+          "package_name": "com.example.sleeptrackingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzy10ep6bC5Fi26LekR21fCeA-5zq7nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
